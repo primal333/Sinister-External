@@ -1,6 +1,6 @@
 If external doesn't work, it means the offsets aren't updated unless I just coded it wrong and missed a bug.
 
-[Memory Mesh Chams and Silent Aim coming soon...]
+[v2.0 Release! Will add Mesh Chams next version, enjoy the new features + Silent Aim]
 
 All offset websites I use:
 https://dumper.jonah.cool/offsets.h
